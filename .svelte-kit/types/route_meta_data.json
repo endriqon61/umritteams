@@ -1,0 +1,14 @@
+{
+	"/": [],
+	"/company-quiz": [
+		"src/routes/company-quiz/+page.ts"
+	],
+	"/employers": [],
+	"/jobSearch": [
+		"src/routes/jobSearch/+page.ts"
+	],
+	"/jobSearch/[slug]": [
+		"src/routes/jobSearch/[slug]/+page.ts"
+	],
+	"/privacy": []
+}
