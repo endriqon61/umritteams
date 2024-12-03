@@ -1,26 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="./favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		
-		<link href="./_app/immutable/assets/0.C-smG6R7.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.DH4qBPxF.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/entry.CVNGnc_W.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/scheduler.CtQkO652.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.B8q2mRxe.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.fBGl5Uae.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.D22r2eNW.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.hW752vYQ.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/Button.jh-8hfS9.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/Frame.DpCzUnx5.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.CfdFpXr3.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/store.BMMai-FD.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/7.Cf4G1DA4.js"><title>UMR it Teams</title><!-- HEAD_svelte-q7k8vu_START --><meta name="description" content="Find your dream job or ideal candidate with UMR it Teams"><meta name="keywords" content="jobs, recruitment, hiring, careers, employment"><meta name="keywords:de" content="Jobs, Rekrutierung, Einstellung, Karrieren, Beschäftigung"><meta property="og:type" content="website"><meta property="og:url" content="https://umritteams.com"><meta property="og:title" content="UMR it Teams"><meta property="og:description" content="Find your dream job or ideal candidate with UMR it Teams"><meta property="twitter:card" content="summary_large_image"><meta property="twitter:url" content="https://umritteams.com"><meta property="twitter:title" content="UMR it Teams"><meta property="twitter:description" content="Find your dream job or ideal candidate with UMR it Teams"><meta property="og:locale" content="de_DE"><meta property="og:locale:alternate" content="en_US"><meta property="og:title" content="UMR it Teams"><meta property="og:description" content="Finden Sie Ihren Traumjob oder den idealen Kandidaten mit UMR it Teams"><link rel="canonical" href="https://umritteams.com"><!-- HEAD_svelte-q7k8vu_END -->
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents">   <nav class="dark:bg-gray-900 text-gray-700 dark:text-gray-200 border-gray-100 dark:border-gray-700 divide-gray-100 dark:divide-gray-700 px-2 sm:px-4 py-2.5 fixed w-full z-50 transition-all duration-200 bg-transparent"><div class="mx-auto flex flex-wrap justify-between items-center container"><a href="/" class="flex items-center space-x-2"><div class=" w-[75px] h-[75px] p-2 rounded-lg"><img alt="UMR Logo" src="/umritteams/images/umr-logo-08.png"></div></a>  <div class="flex items-center gap-8"><div class="w-full md:block md:w-auto flex gap-6" hidden><ul class="flex flex-col p-4 mt-4 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:text-sm md:font-medium"><li><a href="/umritteams/" class="block py-2 pe-4 ps-3 md:p-0 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary-700 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent text-white hover:text-primary-600 transition-colors">Home</a></li>  <li><a href="/umritteams/jobSearch" class="block py-2 pe-4 ps-3 md:p-0 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary-700 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent text-white hover:text-primary-600 transition-colors">Jobs</a></li>  <li><a href="/umritteams/employers" class="block py-2 pe-4 ps-3 md:p-0 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-primary-700 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent text-white hover:text-primary-600 transition-colors">For Employers</a></li> </ul></div>  <a href="/umritteams/jobSearch" class="text-center font-medium focus-within:ring-4 focus-within:outline-none inline-flex items-center justify-center px-5 py-2.5 text-sm text-white dark:bg-primary-600 dark:hover:bg-primary-700 focus-within:ring-primary-300 dark:focus-within:ring-primary-800 rounded-lg bg-secondary-500 hover:bg-secondary-700" role="button">Jobs</a>  <button class="px-3 py-1 rounded-full bg-gray-100 hover:bg-gray-200 text-sm font-medium">EN</button></div></div> </nav>   <div class="min-h-screen bg-gradient-to-b from-primary-300 to-primary-100"><div class="max-w-4xl mx-auto px-4 py-16"><div class="bg-white rounded-xl shadow-lg p-8"><h1 class="text-3xl font-bold text-gray-900 mb-8">Datenschutzerklärung</h1> <div class="prose prose-lg max-w-none"><!-- HTML_TAG_START -->
+import{s as I,z as o,t as B,J as x,T as S,A as d,k as c,q as A,d as s,K as E,U as G,l as g,i as V,o as a,n as m}from"../chunks/scheduler.CtQkO652.js";import{S as P,i as R}from"../chunks/index.D22r2eNW.js";const D={title:"Datenschutzerklärung",content:`
         <section>
     <h2 class="text-2xl font-bold mb-4">Einleitung</h2>
     <p>Die UMR, Diefenbachgasse 53/1, 1150 Wien die in ihrer Funktion als die für die Verarbeitung Verantwortliche (die „Gesellschaft“) handelt, stellt diese Datenschutzerklärung („Erklärung“) bezüglich der Verarbeitung Ihrer personenbezogenen Bewerberdaten als eine betroffene Person (weitere Details siehe unten) für die in dieser Erklärung beschriebenen Zwecke zur Verfügung. Diese Erklärung gilt auch für die Standorte der Gesellschaft in Deutschland und in der Schweiz.</p>
@@ -170,31 +148,4 @@
     </p>
 </section>
 
-    <!-- HTML_TAG_END --></div></div></div></div> 
-			
-			<script>
-				{
-					__sveltekit_1991zti = {
-						base: new URL(".", location).pathname.slice(0, -1)
-					};
-
-					const element = document.currentScript.parentElement;
-
-					const data = [null,null];
-
-					Promise.all([
-						import("./_app/immutable/entry/start.DH4qBPxF.js"),
-						import("./_app/immutable/entry/app.fBGl5Uae.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 7],
-							data,
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
-</html>
+    `};function M(v){let e,n,r,p=D.title+"",f,b,i,l,k=D.content+"";return{c(){e=o("div"),n=o("div"),r=o("h1"),f=B(p),b=x(),i=o("div"),l=new S(!1),this.h()},l(t){e=d(t,"DIV",{class:!0});var h=c(e);n=d(h,"DIV",{class:!0});var u=c(n);r=d(u,"H1",{class:!0});var z=c(r);f=A(z,p),z.forEach(s),b=E(u),i=d(u,"DIV",{class:!0});var w=c(i);l=G(w,!1),w.forEach(s),u.forEach(s),h.forEach(s),this.h()},h(){g(r,"class","text-3xl font-bold text-gray-900 mb-8"),l.a=null,g(i,"class","prose prose-lg max-w-none"),g(n,"class","bg-white rounded-xl shadow-lg p-8"),g(e,"class","max-w-4xl mx-auto px-4 py-16")},m(t,h){V(t,e,h),a(e,n),a(n,r),a(r,f),a(n,b),a(n,i),l.m(k,i)},p:m,i:m,o:m,d(t){t&&s(e)}}}class y extends P{constructor(e){super(),R(this,e,null,M,I,{})}}export{y as component};
